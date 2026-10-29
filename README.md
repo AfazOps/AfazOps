@@ -13,4 +13,4 @@
 ## Projects
 Fresh start — projects from my Linux & DevOps learning path will land here as I build them, step by step.
 
-📫 Reach me through YouTube or GitHub — no public email by choice.
+📫 Reach me on Telegram: @fiboj — no public email by choice.

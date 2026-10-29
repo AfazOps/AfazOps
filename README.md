@@ -11,7 +11,6 @@
 - Building a job-ready DevOps portfolio, step by step
 
 ## Projects
-- dockerized-nginx-project — Nginx running in Docker
-- My-First-nginx-server — my first Nginx server setup
+Fresh start — projects from my Linux & DevOps learning path will land here as I build them, step by step.
 
 📫 Reach me through YouTube or GitHub — no public email by choice.
